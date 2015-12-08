@@ -1,0 +1,30 @@
+{
+  "name": "webcam-app",
+  "version": "1.0.0",
+  "description": "Video Streaming App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gourava29/video-stream-node.git"
+  },
+  "keywords": [
+    "socket.io",
+    "video",
+    "video-streaming",
+    "demo"
+  ],
+  "author": "Gourav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gourava29/video-stream-node/issues"
+  },
+  "homepage": "https://github.com/gourava29/video-stream-node#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "log": "^1.4.0",
+    "socket.io": "^1.3.7"
+  }
+}
